@@ -1,0 +1,13 @@
+Input:
+Adjacency matrix of the graph.
+0 0 1 1 0
+1 0 0 0 0
+0 1 0 0 0
+0 0 0 0 1
+0 0 0 0 0
+
+Output:
+The strongly connected components:
+4
+3
+1 2 0
